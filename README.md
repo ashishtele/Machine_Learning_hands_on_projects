@@ -1,3 +1,4 @@
 # R_Code
 
-Data Central Tendency
+1. Data Central Tendency
+2. Clustering Algorithms: K-Means and Hierarchical
