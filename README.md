@@ -7,3 +7,8 @@
 5. Bike Sharing Clustering: K-Means (package used: cluster, factoextra, tidyverse, readxl)
 6. Bike Sharing: Network graph creation (igraph and NetworkD3)
 7. Bike Sharing: PCA and t-SNE
+
+
+
+Image source: https://github.com/rasbt
+![supervised_learning_flowchart](https://user-images.githubusercontent.com/14126898/40394239-a0dcfa9a-5df0-11e8-9b0e-238c6712976e.png)
