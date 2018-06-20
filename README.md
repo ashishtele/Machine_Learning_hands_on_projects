@@ -7,6 +7,7 @@
 5. Bike Sharing Clustering: K-Means (package used: cluster, factoextra, tidyverse, readxl)
 6. Bike Sharing: Network graph creation (igraph and NetworkD3)
 7. Bike Sharing: PCA and t-SNE
+8. Attrition using Naive Bayes
 
 
 
