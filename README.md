@@ -9,6 +9,7 @@
 7. Bike Sharing: PCA and t-SNE
 8. Attrition using Naive Bayes
 9. Purchase Prediction (Regression)
+10. Image classification using Keras feature extraction
 
 
 Image source: https://github.com/rasbt
