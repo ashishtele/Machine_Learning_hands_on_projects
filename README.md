@@ -10,6 +10,7 @@
 8. Attrition using Naive Bayes
 9. Purchase Prediction (Regression)
 10. Image classification using Keras feature extraction
+11. Fruit Image Classification - Keras (R)
 
 
 Image source: https://github.com/rasbt
