@@ -15,6 +15,7 @@
 13. Sunspot Keras
 14. UCI Yacht
 15. Vendor Volume Analysis Code
+16. R helper functions
 
 Image source: https://github.com/rasbt
 ![supervised_learning_flowchart](https://user-images.githubusercontent.com/14126898/40394239-a0dcfa9a-5df0-11e8-9b0e-238c6712976e.png)
